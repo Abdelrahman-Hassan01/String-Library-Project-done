@@ -1,0 +1,26 @@
+﻿  String Library Project.cpp
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(23,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(131,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(255,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(280,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(305,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(343,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(407,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\Elnour Tech\source\repos\String Library Project\String Library Project\clsString.h(411,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+  String Library Project.vcxproj -> C:\Users\Elnour Tech\source\repos\String Library Project\x64\Debug\String Library Project.exe
